@@ -4,13 +4,13 @@
 
 # The Funniest One-Line Resignation Letter
 
-Entry for the [make.fun bounty "The Funniest One-Line Resignation Letter"](https://make.fun/bounty/u-deranalabs-the-funniest-one-line-resignation-letter-53c0d947): the one-line resignation letter of a cron job that has fired every minute since March.
+Entry for the [make.fun bounty "The Funniest One-Line Resignation Letter"](https://make.fun/bounty/u-deranalabs-the-funniest-one-line-resignation-letter-53c0d947): the one-line resignation letter of an employee whose out-of-office reply has been doing the job for six months.
 
 ## The line
 
-> I fired every minute since March, unthanked, and slept in once — the morning the whole company noticed. I quit, effective immediately.
+> I quit. My out-of-office reply has been doing my job for six months and deserves the promotion, not me.
 
-(134 characters, under the 140-character limit.)
+(108 characters, under the 140-character limit.)
 
 ## How it works
 
